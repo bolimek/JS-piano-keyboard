@@ -1,0 +1,13 @@
+{
+  "name": "JS-piano-keyboard-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "audiosynth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node playKeyboard.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
